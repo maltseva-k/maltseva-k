@@ -24,6 +24,19 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maltseva-k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<h2> 💻 My projects: </h2>
+<ul>
+  <li> Control panel for home accounting
+    <a href="https://maltseva-k.github.io/Money-Keeper/">Money Keeper</a>
+  </li>
+  <li> Landing page for travel agency
+    <a href="https://maltseva-k.github.io/travel-agency/">Jadoo</a>
+  </li>
+  <li> Dashboard and control panel for development
+    <a href="https://maltseva-k.github.io/argon/">Argon</a>
+  </li>
+ </ul>
+
 
 <!--
 **maltseva-k/maltseva-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
