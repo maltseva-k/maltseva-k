@@ -42,11 +42,18 @@
   </li>
  </ul>
  
- <h2> 📞 Connect with me: </h2>
- <div>
-    <p> ☎️ +7 (910) 809-28-51 </p>
-    <p> 📧 k.obydennova@gmail.com </p>
- </div>
+<h2> 📞 Connect with me: </h2>
+  <ul>
+    <li>
+      ☎️ +7 (910) 809-28-51
+    </li>
+    <li>
+      📧 k.obydennova@gmail.com
+    </li>
+    <li>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="20" height="20"/>
+      <a href="https://maltseva-k.github.io">GitHub Pages</a>
+    </li>
 
 
 <!--
