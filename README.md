@@ -28,18 +28,22 @@
 
 <h2> 💻 My projects: </h2>
 <ul>
-  <li> Control panel for home accounting
-    <a href="https://maltseva-k.github.io/Money-Keeper/" target="_blank">Money Keeper</a>
-    <p>:hammer_and_wrench: Vue 2, Materialize.css, Firebase (realtime database, email&password authentication), Vue-chart.js</p>
-  </li>
-  <li> Dashboard and control panel for development
-    <a href="https://maltseva-k.github.io/argon/" target="_blank">Argon</a>
-    <p>:hammer_and_wrench: Vue 3, Tailwind.css, Flowbite, Firebase (realtime database, google/email&password authentication), Chart.js</p>
-  </li>
-  <li> Online cinema page
-    <a href="https://maltseva-k.github.io/cinema/" target="_blank">Cinema</a>
-    <p>:hammer_and_wrench: HTML, CSS, JavaScript, БЭМ (class's-name), adaptive and responsive web design</p>
-  </li>
+   <li> Landing Page for cosmetics store
+      <a href="https://maltseva-k.github.io/dudeshape/" target="_blank">Dudeshape</a>
+      <p>🛠️ HTML, CSS, adaptive and responsive web design</p>
+    </li>
+    <li> Control panel for home accounting
+      <a href="https://maltseva-k.github.io/Money-Keeper/" target="_blank">Money Keeper</a>
+      <p>🛠️ Vue 2, Materialize.css, Firebase (realtime database, email&password authentication), Vue-chart.js</p>
+    </li>
+    <li> Dashboard and control panel for development
+      <a href="https://maltseva-k.github.io/argon/" target="_blank">Argon</a>
+      <p>🛠️ Vue 3, Tailwind.css, Flowbite, Firebase (realtime database, google/email&password authentication), Chart.js</p>
+    </li>
+     <li> Online cinema page
+      <a href="https://maltseva-k.github.io/cinema/" target="_blank">Cinema</a>
+      <p>🛠️ HTML, CSS, JavaScript, БЭМ (class's-name), adaptive and responsive web design</p>
+    </li>
  </ul>
  
 <h2> 📞 Connect with me: </h2>
