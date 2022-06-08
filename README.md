@@ -40,6 +40,10 @@
       <a href="https://maltseva-k.github.io/argon/" target="_blank">Argon</a>
       <p>🛠️ Vue 3, Tailwind.css, Flowbite, Firebase (realtime database, google/email&password authentication), Chart.js</p>
     </li>
+    <li> Online store
+      <a href="https://maltseva-k.github.io/O-ZONE/" target="_blank">O-ZONE</a>
+      <p>🛠️ HTML, SCSS, JavaScript, БЭМ (class's-name), adaptive and responsive web design</p>
+    </li>
      <li> Online cinema page
       <a href="https://maltseva-k.github.io/cinema/" target="_blank">Cinema</a>
       <p>🛠️ HTML, CSS, JavaScript, БЭМ (class's-name), adaptive and responsive web design</p>
