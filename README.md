@@ -37,7 +37,7 @@
     </li>
     <li> Control panel for home accounting
       <a href="https://maltseva-k.github.io/Money-Keeper/" target="_blank">Money Keeper</a>
-      <p>🛠️ Vue 2, Vue Router, HTML, Materialize.css, Firebase (realtime database, email&password authentication), Vue-chart.js</p>
+      <p>🛠️ Vue 2, Vue Router, Vuex, HTML, Materialize.css, Firebase (realtime database, email&password authentication), Vue-chart.js</p>
     </li>
     <li> Dashboard and control panel for development
       <a href="https://maltseva-k.github.io/argon/" target="_blank">Argon</a>
